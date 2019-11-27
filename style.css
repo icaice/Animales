@@ -1,4 +1,16 @@
-table, tr, td {
-    border: 2px black solid;
-    font-style: italic
+a:hover{
+    color: rgb(29, 190, 14) 
+}
+
+img:hover{
+    width: 250px;
+}
+
+
+h1{
+    background-color: blue;
+}
+
+body{
+    background-color: rgb(95, 180, 152)
 }
